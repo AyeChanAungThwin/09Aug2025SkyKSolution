@@ -1,0 +1,6 @@
+E:\PosProj\TestConsole\TestConsole\bin\Debug\TestConsole.exe
+E:\PosProj\TestConsole\TestConsole\bin\Debug\TestConsole.pdb
+E:\PosProj\TestConsole\TestConsole\obj\Debug\TestConsole.csproj.AssemblyReference.cache
+E:\PosProj\TestConsole\TestConsole\obj\Debug\TestConsole.csproj.CoreCompileInputs.cache
+E:\PosProj\TestConsole\TestConsole\obj\Debug\TestConsole.exe
+E:\PosProj\TestConsole\TestConsole\obj\Debug\TestConsole.pdb
